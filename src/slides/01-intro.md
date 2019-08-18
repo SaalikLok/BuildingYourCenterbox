@@ -1,6 +1,8 @@
-# Gatsby Deck
+# Building Your Centerbox
 
-Create presentations using Gatsby & React.
+A workshop by Saalik Lokhandwala
+
+And [Lytebulb](https://lytebulb.tech)
 
 ---
 
