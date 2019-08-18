@@ -1,8 +1,10 @@
+![CenterboxLogo](./CenterboxLogo.svg)
+
 # Building Your Centerbox
 
 A workshop by Saalik Lokhandwala
 
-And [Lytebulb](https://lytebulb.tech)
+Press enter or the arrow keys to continue.
 
 ---
 

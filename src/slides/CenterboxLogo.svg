@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="74px" viewBox="0 0 100 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-156.000000, -66.000000)">
+            <g id="Group" transform="translate(156.000000, 66.000000)">
+                <rect id="Rectangle" fill="#9CD7FF" x="0" y="0" width="100" height="74"></rect>
+                <g id="yoga" transform="translate(22.077922, 9.087719)" stroke="#4A4A4A" stroke-width="2">
+                    <ellipse id="Oval" stroke-linecap="square" cx="28.5714286" cy="6.49122807" rx="6.49350649" ry="6.49122807"></ellipse>
+                    <path d="M10.3896104,44.1403509 L46.7532468,44.1403509" id="Path" stroke-linecap="square"></path>
+                    <path d="M0,53.2280702 L57.1428571,53.2280702" id="Path" stroke-linecap="square"></path>
+                    <path d="M51.9480519,22.0701754 L46.2948052,26.5919649 C45.8073505,26.9818244 45.1113832,26.9698291 44.6376623,26.5634035 L36.3636364,19.4736842 L20.7792208,19.4736842 L12.5051948,26.5634035 C12.031474,26.9698291 11.3355066,26.9818244 10.8480519,26.5919649 L5.19480519,22.0701754" id="Path" stroke-linecap="square"></path>
+                    <path d="M20.7792208,19.6593333 L20.7792208,37.6491228" id="Path"></path>
+                    <path d="M36.3636364,19.6593333 L36.3636364,37.6491228" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

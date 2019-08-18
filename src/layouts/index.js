@@ -9,11 +9,22 @@ import './index.css';
 
 const Header = ({ name, title, date }) => (
   <header>
+    <a href="https://lytebulb.tech">
+      <span>{name}</span>
+    </a>
     <Link to="/1">
-      <span>{name}</span> — {title}
+      <span>{title}</span>
     </Link>
     <time>{date}</time>
   </header>
+);
+
+const Footer = () => (
+  <footer>
+    <p className="footer">
+      A <a href="https://lytebulb.tech">Lytebulb</a> project, 2019.
+    </p>
+  </footer>
 );
 
 class TemplateWrapper extends Component {
@@ -71,9 +82,12 @@ class TemplateWrapper extends Component {
           onSwipedRight={this.swipeRight}
         >
           <Transition location={location}>
-            <div id="slide" style={{'width': '100%'}}>{children}</div>
+            <div id="slide" style={{ width: '100%' }}>
+              {children}
+            </div>
           </Transition>
         </Swipeable>
+        {/* <Footer/> */}
       </div>
     );
   }
