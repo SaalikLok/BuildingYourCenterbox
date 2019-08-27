@@ -8,22 +8,37 @@ Press enter or the arrow keys to continue.
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+## This Workshop
+This online workshop will guide you through the process of brainstorming and creating your very own Centerbox. 
+
+We'll cover the *why*, *what*, and *how* to create one.
 
 ---
 
-# 🤫
+### A Centerbox?
+A Centerbox is a toolbox of activities that you can do to come back to center. You'll finish this workshop with a set of activities that you can reference whenever you want to feel like yourself again.
 
 ---
 
-## Slides are written in Markdown!
+### Here's what you'll need.
 
-Here's the source of the first slide:
+⏳At least 20 uninterrupted minutes
 
-    # Gatsby Deck
+📝Something to write on
 
-    Create presentations using Gatsby & React.
+---
+
+# 🖋
+
+A pen emoji indicates a writing exercise. Take some time to write and reflect when you see it.
+
+---
+
+### Origins
+Interested in how this got started? Check out the [blog post](https://medium.com) behind the workshop.
+
+---
+
+# Ready? 
+## Let's Go. 🚀
+
